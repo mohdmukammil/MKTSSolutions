@@ -33,7 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="MKValidator, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MKValidator.Mohammad_Mukammil.1.0.1\lib\net452\MKValidator.dll</HintPath>
+      <HintPath>..\packages\MKValidator.Mohammad_Mukammil.1.0.3\lib\net452\MKValidator.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

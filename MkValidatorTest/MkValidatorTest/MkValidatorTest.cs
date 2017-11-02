@@ -17,6 +17,7 @@ namespace MkValidatorTest
             employee.Age = 25;
             employee.MobileNumber = "7895869325";
             employee.Remarks = "Test Remarks";
+            employee.Salary = "";
 
             string errorMessage = string.Empty;
 

@@ -6,3 +6,12 @@ C:\Users\user 1\Documents\Visual Studio 2017\Projects\MkValidatorTest\MkValidato
 C:\Users\user 1\Documents\Visual Studio 2017\Projects\MkValidatorTest\MkValidatorTest\obj\Debug\MkValidatorTest.csprojResolveAssemblyReference.cache
 C:\Users\user 1\Documents\Visual Studio 2017\Projects\MkValidatorTest\MkValidatorTest\obj\Debug\MkValidatorTest.exe
 C:\Users\user 1\Documents\Visual Studio 2017\Projects\MkValidatorTest\MkValidatorTest\obj\Debug\MkValidatorTest.pdb
+C:\Users\Sabre_002\Documents\GitHub\MKTSSolutions.MKValidator\MkValidatorTest\MkValidatorTest\bin\Debug\MkValidatorTest.exe.config
+C:\Users\Sabre_002\Documents\GitHub\MKTSSolutions.MKValidator\MkValidatorTest\MkValidatorTest\bin\Debug\MkValidatorTest.exe
+C:\Users\Sabre_002\Documents\GitHub\MKTSSolutions.MKValidator\MkValidatorTest\MkValidatorTest\bin\Debug\MkValidatorTest.pdb
+C:\Users\Sabre_002\Documents\GitHub\MKTSSolutions.MKValidator\MkValidatorTest\MkValidatorTest\bin\Debug\MKValidator.dll
+C:\Users\Sabre_002\Documents\GitHub\MKTSSolutions.MKValidator\MkValidatorTest\MkValidatorTest\obj\Debug\MkValidatorTest.csprojResolveAssemblyReference.cache
+C:\Users\Sabre_002\Documents\GitHub\MKTSSolutions.MKValidator\MkValidatorTest\MkValidatorTest\obj\Debug\MkValidatorTest.csproj.CoreCompileInputs.cache
+C:\Users\Sabre_002\Documents\GitHub\MKTSSolutions.MKValidator\MkValidatorTest\MkValidatorTest\obj\Debug\MkValidatorTest.exe
+C:\Users\Sabre_002\Documents\GitHub\MKTSSolutions.MKValidator\MkValidatorTest\MkValidatorTest\obj\Debug\MkValidatorTest.pdb
+C:\Users\Sabre_002\Documents\GitHub\MKTSSolutions.MKValidator\MkValidatorTest\MkValidatorTest\bin\Debug\MKValidator.xml
