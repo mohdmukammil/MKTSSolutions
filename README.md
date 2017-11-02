@@ -9,6 +9,9 @@ PM>Install-Package MKValidator.Mohammad_Mukammil -Version 1.0.1
 Step 3. Now setup is completed and you can use the library like this
 
 Eg. 
+// you can get error message in string variable
+string errorMessage // Used to get error message
+
 
 using MKValidator;
 using System;
