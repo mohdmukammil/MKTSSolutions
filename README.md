@@ -10,6 +10,7 @@ Step 3. Now setup is completed and you can use the library like this
 
 Eg. 
 // you can get error message in string variable
+
 string errorMessage; //used for message
 
 
