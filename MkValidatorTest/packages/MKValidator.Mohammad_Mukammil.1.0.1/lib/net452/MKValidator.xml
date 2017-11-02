@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MKValidator</name>
+    </assembly>
+    <members>
+        <member name="T:MKValidator.MKValidator">
+            <summary>
+            Validate object at the server side
+            </summary>
+        </member>
+        <member name="T:MKValidator.ValidateRequired">
+            <summary>
+            Validate required field
+            </summary>
+        </member>
+        <member name="T:MKValidator.ValidateNumber">
+            <summary>
+            Validate number format
+            </summary>
+        </member>
+        <member name="T:MKValidator.ValidateRange">
+            <summary>
+            Validate range of the number
+            </summary>
+        </member>
+        <member name="T:MKValidator.ValidateEmail">
+            <summary>
+            Validate Email
+            </summary>
+        </member>
+        <member name="T:MKValidator.ValidateRegularExpression">
+            <summary>
+            Validate as regular expression
+            </summary>
+        </member>
+        <member name="T:MKValidator.ValidateLength">
+            <summary>
+            Validate length
+            </summary>
+        </member>
+    </members>
+</doc>
